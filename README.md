@@ -7,3 +7,4 @@
 
 * [iTerm2](https://www.iterm2.com/)
   * oh-my-zsh
+  * [Pure](https://github.com/sindresorhus/pure)
