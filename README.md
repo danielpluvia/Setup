@@ -9,3 +9,4 @@
   * oh-my-zsh
   * [Pure](https://github.com/sindresorhus/pure)
   * [Theme_Snazzy](https://github.com/sindresorhus/terminal-snazzy)
+  * [Powerline](https://github.com/powerline/fonts)
