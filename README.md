@@ -2,6 +2,7 @@
 
 * Issue: [How to fix Arduino serial port bug on MAC OS SIERRA](https://www.youtube.com/watch?v=wyocdvAKo64&t=11s)
 * Solution: Install "CH34x_Install_V1.3.pkg"
+* [Xcode users can free up space on your Mac](http://ajithrnayak.com/post/95441624221/xcode-users-can-free-up-space-on-your-mac)
 
 # [macOS Setup Guide](https://sourabhbajaj.com/mac-setup)
 
