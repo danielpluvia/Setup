@@ -2,7 +2,7 @@
 
 ## [Using Pod Lib Create](https://medium.com/@satishios25/creating-and-publishing-a-custom-pod-to-cocoapods-library-b314c3c7b4f0)
 
-* Go go [Github](github.com) website and create a new **empty** respository, which is called `MyLibrary`. This repository MUST NOT contain any files.
+* Go go [Github](github.com) website and create a new **empty** respository, which is called `MyLibrary`. This repository **MUST NOT** contain any files.
 * `pod lib create MyLibrary` (The name should match the GitHub repo).
 * Go to the folder `Example` and open `*.xcworkspace`.
 * Sign the project and modify `Podfile` (remove the version number of Quick and Nimble).
